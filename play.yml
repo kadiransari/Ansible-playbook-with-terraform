@@ -1,0 +1,4 @@
+- hosts: all
+  tasks:
+      - name: Execute the command in remote shell module
+        shell: "echo 'welcome to india' > /tmp/cloudknowledge"
