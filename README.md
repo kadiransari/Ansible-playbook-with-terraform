@@ -52,4 +52,5 @@ terraform output (web_ip)
 Cleaning Up
 
 To destroy the resources created by Terraform:
+
 #terraform destroy
